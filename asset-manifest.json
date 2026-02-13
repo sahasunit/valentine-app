@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valentine-app/static/css/main.110f45d6.css",
-    "main.js": "/valentine-app/static/js/main.a4c73ce5.js",
+    "main.js": "/valentine-app/static/js/main.ed1cd47c.js",
     "static/js/453.cbcc4981.chunk.js": "/valentine-app/static/js/453.cbcc4981.chunk.js",
     "static/media/clare-valley.jpg": "/valentine-app/static/media/clare-valley.aebc48a9bb460e74a598.jpg",
     "static/media/sunit1.jpg": "/valentine-app/static/media/sunit1.7020a9cf36329df0ca27.jpg",
@@ -13,11 +13,11 @@
     "static/media/anuli-the-punuli.jpg": "/valentine-app/static/media/anuli-the-punuli.21bbbbeff68029be2e9e.jpg",
     "index.html": "/valentine-app/index.html",
     "main.110f45d6.css.map": "/valentine-app/static/css/main.110f45d6.css.map",
-    "main.a4c73ce5.js.map": "/valentine-app/static/js/main.a4c73ce5.js.map",
+    "main.ed1cd47c.js.map": "/valentine-app/static/js/main.ed1cd47c.js.map",
     "453.cbcc4981.chunk.js.map": "/valentine-app/static/js/453.cbcc4981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.110f45d6.css",
-    "static/js/main.a4c73ce5.js"
+    "static/js/main.ed1cd47c.js"
   ]
 }
