@@ -295,7 +295,7 @@ function App() {
   const handleYesNoClick = (answer) => {
     if (answer.text === 'Yes' && answer.correct) {
       setId6YesSelected(true);
-      setSuccessMessage("You're the finest, loveliest, tenderest and most beautiful person I have ever known and even that is an understatement! I loveeeeee daruuuuuu!💕 😘💋");
+      setSuccessMessage("You're the finest, loveliest, tenderest and most beautiful person I have ever known and even that is an understatement! I loveeeeee freeee ka daruuuuuu!💕 😘💋");
       setErrorMessage("");
       setShowImage(true);
       setDisappointmentIndex(0);
