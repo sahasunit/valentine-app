@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.110f45d6.css",
+    "main.js": "/static/js/main.92954d1e.js",
+    "static/js/453.cbcc4981.chunk.js": "/static/js/453.cbcc4981.chunk.js",
+    "static/media/clare-valley.jpg": "/static/media/clare-valley.aebc48a9bb460e74a598.jpg",
+    "static/media/sunit1.jpg": "/static/media/sunit1.7020a9cf36329df0ca27.jpg",
+    "static/media/sunit2.jpg": "/static/media/sunit2.43a3da755441835e0ae7.jpg",
+    "static/media/valentine-kiss.jpg": "/static/media/valentine-kiss.9cea8efc7d9d8fba2079.jpg",
+    "static/media/sunit3.jpg": "/static/media/sunit3.a1b2759b9985a5ac5098.jpg",
+    "static/media/poha.jpg": "/static/media/poha.ed62c39fa41b672551b6.jpg",
+    "static/media/harry-potter.jpg": "/static/media/harry-potter.43fec612b04aea617262.jpg",
+    "static/media/anuli-the-punuli.jpg": "/static/media/anuli-the-punuli.21bbbbeff68029be2e9e.jpg",
+    "index.html": "/index.html",
+    "main.110f45d6.css.map": "/static/css/main.110f45d6.css.map",
+    "main.92954d1e.js.map": "/static/js/main.92954d1e.js.map",
+    "453.cbcc4981.chunk.js.map": "/static/js/453.cbcc4981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.110f45d6.css",
+    "static/js/main.92954d1e.js"
+  ]
+}
